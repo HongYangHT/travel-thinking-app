@@ -10,5 +10,4 @@ Map<String, WidgetBuilder> generateRoutes(
     '/': (context) => HomeScreen(title: '旅想', navigatorKey: navigatorKey),
     '/login': (context) => LoginScreen(),
   };
-  ;
 }

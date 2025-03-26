@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:loader_overlay/loader_overlay.dart';
 import 'package:loading_animation_widget/loading_animation_widget.dart';
 import 'package:travel_thinking_app/core/di/locator.dart';
-import 'package:travel_thinking_app/presentation/views/home/home_screen.dart';
 import 'package:travel_thinking_app/presentation/views/login_screen/login_screen.dart';
 import 'package:travel_thinking_app/routes/index.dart';
 
