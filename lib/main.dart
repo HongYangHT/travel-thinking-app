@@ -71,7 +71,7 @@ class MyApp extends StatelessWidget {
 
   // 模拟检查管理员权限的函数
   bool checkAdminPermission() {
-    // 这里可以替换为实际的权限检查逻辑
+    // 这里可以替换为实际的权限检查逻辑, tUserInfo() 是获取用户信息的函数
     return false; // 假设当前用户不是管理员
   }
 }
